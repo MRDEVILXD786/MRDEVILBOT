@@ -1,0 +1,15 @@
+{"userId":"61583620049595","threadId":"1609631786783461","nickname":"😀❤️","lockedAt":1779218572450,"_id":"3lJWluw9FmDC6AAt"}
+{"userId":"61577498482267","threadId":"1609631786783461","nickname":"😀❤️","lockedAt":1779218564181,"_id":"7sRBp9iFdFZM2vMR"}
+{"userId":"61563639430637","threadId":"1609631786783461","nickname":"😀❤️","lockedAt":1779218561917,"_id":"BM6vy4OZvdsyd05Z"}
+{"userId":"100004801116885","threadId":"1609631786783461","nickname":"😀❤️","lockedAt":1779218581612,"_id":"FbhrIYaohisHWCEd"}
+{"userId":"100009012838085","threadId":"1609631786783461","nickname":"😀❤️","lockedAt":1779218584067,"_id":"L6eKoEdrlWMBiAuh"}
+{"userId":"61589042468198","threadId":"1609631786783461","nickname":"😀❤️","lockedAt":1779218579956,"_id":"oXuClxLbL1daYsQY"}
+{"userId":"61582054381144","threadId":"1609631786783461","nickname":"😀❤️","lockedAt":1779218569924,"_id":"rX4W6RSlicnsK9kp"}
+{"userId":"61586992056462","threadId":"1609631786783461","nickname":"😀❤️","lockedAt":1779218577529,"_id":"rq3GimZyvTqqtpkF"}
+{"userId":"61579634445889","threadId":"1609631786783461","nickname":"😀❤️","lockedAt":1779218567500,"_id":"tvixb7A4x43NFOaB"}
+{"userId":"61563152461743","threadId":"1609631786783461","nickname":"😀❤️","lockedAt":1779218560449,"_id":"uyrDQclTzmkSR1JH"}
+{"userId":"61577647262557","threadId":"1609631786783461","nickname":"😀❤️","lockedAt":1779218565267,"_id":"xuzhxtpou0bcKScM"}
+{"userId":"61584495021441","threadId":"1609631786783461","nickname":"😀❤️","lockedAt":1779218574845,"_id":"yBuslgwlrCiCMTgt"}
+{"$$indexCreated":{"fieldName":"id","unique":false,"sparse":false}}
+{"$$indexCreated":{"fieldName":"threadId","unique":false,"sparse":false}}
+{"$$indexCreated":{"fieldName":"userId","unique":false,"sparse":false}}

@@ -1,0 +1,30 @@
+{
+  "PORT": 5000,
+  "LOGIN_METHOD": "appstate",
+  "BOTNAME": "🌟 MR DEVIL BOT 🌟",
+  "PREFIX": ".",
+  "ADMINBOT": [
+    "YAHAN_APNA_FB_UID_DAALO"
+  ],
+  "PREFIX_ENABLED": true,
+  "REACT_DELETE_EMOJI": "😡",
+  "ADMIN_ONLY_MODE": false,
+  "APPROVE_ONLY": false,
+  "GLOBAL_COOLDOWN": 3,
+  "AUTO_ISLAMIC_POST": false,
+  "AUTO_GROUP_MESSAGE": false,
+  "TEST_MODE": false,
+  "LANGUAGE": "ur",
+  "TIMEZONE": "Asia/Karachi",
+  "AUTO_RESTART_MINUTES": 120,
+  "LOG_MESSAGES": true,
+  "IGNORED_USERS": [],
+  "DISABLED_COMMANDS": [],
+  "AI_NAME": "Mano",
+  "AI_OWNER": "Mr Devil",
+  "AI_OWNER_UID": "YAHAN_APNA_FB_UID_DAALO",
+  "AI_MODEL": "google/gemini-2.5-flash-lite",
+  "AI_ENABLED": true,
+  "AI_API_KEY": "",
+  "CEREBRAS_API_URL": "https://api.cerebras.ai/v1/chat/completions"
+}

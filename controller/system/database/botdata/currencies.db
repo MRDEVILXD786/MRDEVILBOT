@@ -1,0 +1,24 @@
+{"id":"61576224533442","name":"","balance":0,"bank":0,"exp":0,"lastDaily":null,"dailyStreak":0,"lastWork":null,"_id":"9SogjHqIHg7bzb2g"}
+{"id":"61582407234486","name":"","balance":0,"bank":0,"exp":0,"lastDaily":null,"dailyStreak":0,"lastWork":null,"_id":"Azhx0FJz2oaeBypu"}
+{"id":"61563152461743","name":"","balance":0,"bank":0,"exp":0,"lastDaily":null,"dailyStreak":0,"lastWork":null,"_id":"JJrvjb2RxOdgGOCk"}
+{"id":"100077682070715","name":"","balance":0,"bank":0,"exp":0,"lastDaily":null,"dailyStreak":0,"lastWork":null,"_id":"LQBir7T7Hsm2GF7Q"}
+{"id":"100074269952016","name":"","balance":0,"bank":0,"exp":0,"lastDaily":null,"dailyStreak":0,"lastWork":null,"_id":"LjOnLgVWyxUOCBGM"}
+{"id":"61589685150850","name":"","balance":2,"bank":0,"exp":4,"lastDaily":null,"dailyStreak":0,"lastWork":null,"_id":"RUubwLSF77E7mw4y"}
+{"id":"100087163490159","name":"","balance":0,"bank":0,"exp":115,"lastDaily":null,"dailyStreak":0,"lastWork":null,"_id":"RvRoUlZKX5zwLri6"}
+{"id":"100066648828143","name":"","balance":0,"bank":0,"exp":0,"lastDaily":null,"dailyStreak":0,"lastWork":null,"_id":"XKxWw0MnyZCONj15"}
+{"id":"100004801116885","name":"","balance":0,"bank":0,"exp":0,"lastDaily":null,"dailyStreak":0,"lastWork":null,"_id":"Zr6hgjv6Zvc2NQZ0"}
+{"id":"100088594435250","name":"","balance":0,"bank":0,"exp":0,"lastDaily":null,"dailyStreak":0,"lastWork":null,"_id":"dAa2PCZDayW6sqpX"}
+{"id":"61585026355674","name":"","balance":0,"bank":0,"exp":0,"lastDaily":null,"dailyStreak":0,"lastWork":null,"_id":"dnL6mQO6spg4SPUI"}
+{"id":"61554108161971","name":"","balance":0,"bank":0,"exp":0,"lastDaily":null,"dailyStreak":0,"lastWork":null,"_id":"dqbI4QBmw478nbwU"}
+{"id":"61577677281556","name":"","balance":0,"bank":0,"exp":0,"lastDaily":null,"dailyStreak":0,"lastWork":null,"_id":"eBmHwU75wFvTxGIS"}
+{"id":"100004807696030","name":"","balance":16,"bank":0,"exp":32,"lastDaily":null,"dailyStreak":0,"lastWork":null,"_id":"esTuOggev9QnmOka"}
+{"id":"61577647262557","name":"","balance":1055,"bank":0,"exp":4785,"lastDaily":"Tue May 19 2026","dailyStreak":1,"lastWork":"2026-05-19T05:18:36.558Z","_id":"g4stApTegHuVccQ9","accountOpen":true,"accountName":"SARDAR RDX","accountAge":21}
+{"id":"100082849500174","name":"","balance":0,"bank":0,"exp":0,"lastDaily":null,"dailyStreak":0,"lastWork":null,"_id":"m5mZBepKdiLC72l8"}
+{"id":"100089466841974","name":"","balance":0,"bank":0,"exp":0,"lastDaily":null,"dailyStreak":0,"lastWork":null,"_id":"qTR47IYD85usywug"}
+{"id":"61571451131312","name":"","balance":0,"bank":0,"exp":0,"lastDaily":null,"dailyStreak":0,"lastWork":null,"_id":"qlqLBFhJMhlCXGhM"}
+{"id":"61575657575885","name":"","balance":0,"bank":0,"exp":0,"lastDaily":null,"dailyStreak":0,"lastWork":null,"_id":"qoxqHSvh9sMFH0MR"}
+{"id":"100003779908206","name":"","balance":0,"bank":0,"exp":0,"lastDaily":null,"dailyStreak":0,"lastWork":null,"_id":"s3Eg0OAtnUkOrIwm"}
+{"id":"100011588984921","name":"","balance":0,"bank":0,"exp":0,"lastDaily":null,"dailyStreak":0,"lastWork":null,"_id":"t39bIja4vJJZ8Y8e"}
+{"$$indexCreated":{"fieldName":"id","unique":false,"sparse":false}}
+{"$$indexCreated":{"fieldName":"userId","unique":false,"sparse":false}}
+{"$$indexCreated":{"fieldName":"threadId","unique":false,"sparse":false}}
