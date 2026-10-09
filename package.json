@@ -17,7 +17,7 @@
   "author": "MR DEVIL",
   "license": "ISC",
   "description": "Facebook Messenger Bot v2 by MR DEVIL - Powered by Mrdevilfca",
-  "dependencies": {
+    "dependencies": {
     "@napi-rs/canvas": "^1.0.0",
     "@seald-io/nedb": "^4.1.2",
     "axios": "^1.16.1",
@@ -31,8 +31,6 @@
     "node-cron": "^4.2.1",
     "node-fetch": "^2.7.0",
     "Mrdevilfca": "git+https://github.com/MRDEVIL786143/Mrdevilfca.git",
-    ,
     "string-similarity": "^4.0.4",
     "websocket-stream": "^5.5.2"
   }
-}
